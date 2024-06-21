@@ -1,0 +1,11 @@
+datetime,lat,lon,sample_path,label,score
+,,,sample_1.nc,0,1.0538475e-31
+,,,sample_10.nc,0,1.2192524e-31
+,,,sample_2.nc,0,1.46718e-31
+,,,sample_3.nc,0,1.5508573e-31
+,,,sample_4.nc,0,1.2906298e-31
+,,,sample_5.nc,0,1.2192524e-31
+,,,sample_6.nc,0,1.0538475e-31
+,,,sample_7.nc,0,1.46718e-31
+,,,sample_8.nc,0,1.5508573e-31
+,,,sample_9.nc,0,1.2906298e-31
